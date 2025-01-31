@@ -1,4 +1,4 @@
 - 👋 Hello everyone, I’m Igor
 -  I’m interested in learning day by day more in data analysis
--  I'm currently improving my skills in data analysis using Excel, SQL, Power Bi, Tableau and R. Next --> Phyton
+-  I'm currently improving my skills in data analysis using Excel, SQL, Power Bi, Qlik.
 - 📫 here my e-mail: igor6@hotmail.it
